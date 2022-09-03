@@ -1,2 +1,2 @@
-<img src="./images/carrefoursa.png" height=400>
+<img src="./images/carrefoursa.png" height=800>
 
