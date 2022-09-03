@@ -1,1 +1,1 @@
-<img src="./images/homework3.png" height=400>
+<img src="./images/homework3.png" height=800>
