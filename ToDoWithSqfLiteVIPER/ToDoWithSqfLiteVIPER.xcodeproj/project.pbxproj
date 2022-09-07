@@ -93,7 +93,6 @@
 			children = (
 				0FD46A5628C86EF100F3EB60 /* ToDoWithSqfLiteVIPER */,
 				0FD46A5528C86EF100F3EB60 /* Products */,
-				0FD46AA928C9029500F3EB60 /* SqfLiteFiles */,
 				0FD46AA728C8C49000F3EB60 /* todo.sqlite */,
 			);
 			sourceTree = "<group>";
@@ -115,6 +114,7 @@
 				0FD46A6B28C86F1200F3EB60 /* Modules */,
 				0FD46A7328C8701100F3EB60 /* Supporting Files */,
 				0FD46A7228C86FF600F3EB60 /* Resources */,
+				0FD46AA928C9029500F3EB60 /* SqfLiteFiles */,
 			);
 			path = ToDoWithSqfLiteVIPER;
 			sourceTree = "<group>";
@@ -495,7 +495,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.ibrahimdemirci.ToDoWithSqfLiteVIPER;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "SqfLiteFiles/ToDoWithSqfLiteVIPER-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "ToDoWithSqfLiteVIPER/SqfLiteFiles/ToDoWithSqfLiteVIPER-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -526,7 +526,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.ibrahimdemirci.ToDoWithSqfLiteVIPER;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "SqfLiteFiles/ToDoWithSqfLiteVIPER-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "ToDoWithSqfLiteVIPER/SqfLiteFiles/ToDoWithSqfLiteVIPER-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
