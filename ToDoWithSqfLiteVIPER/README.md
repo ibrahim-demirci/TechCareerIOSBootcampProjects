@@ -16,13 +16,10 @@
 - Update todo.
 - Save datas on local database.
 
-<<<<<<< HEAD
 ## Architecture
 
 - VIPER
 
-=======
->>>>>>> master
 ## Tech
 
 Dillinger uses a number of open source projects to work properly:
